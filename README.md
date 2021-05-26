@@ -1,3 +1,6 @@
+# Live Demo:
+https://exhange-rate.netlify.app/
+
 # What the project includes?
 -Possibility te exhange €EUR for £GBP
 
