@@ -1,7 +1,5 @@
 # Live Demo:
-Deployment on netlify & vercel:
-https://exhange-rate.netlify.app/
-https://exhange-rate.vercel.app/
+Deployment on netlify: https://exhange-rate.netlify.app/
 
 # What the project includes?
 -Possibility te exhange €EUR for £GBP
