@@ -1,4 +1,5 @@
-#Exhange to convert paund - euro
+# Exhange to convert paund - euro
+
 <a href="https://exhange-rate.netlify.app/" target="_blank">LIVE DEMO</a>
 
 # What the project includes?
