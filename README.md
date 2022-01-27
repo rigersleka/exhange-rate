@@ -1,5 +1,4 @@
-# Live Demo:
-Deployment on netlify: https://exhange-rate.netlify.app/
+## <a href=" https://exhange-rate.netlify.app/" target="_blank">LIVE DEMO</a>
 
 # What the project includes?
 -Possibility te exhange €EUR for £GBP
